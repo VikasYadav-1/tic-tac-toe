@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-This is a Tic Tac Toe game implemented using HTML, CSS, and JavaScript. The game features a player versus an AI opponent that uses the Minimax algorithm to make optimal moves.
+This is a Tic Tac Toe game implemented using HTML and CSS. The game features a player versus an AI opponent that uses the Minimax algorithm to make optimal moves.
 ## Introduction
 Tic Tac Toe is a classic game played on a 3x3 grid. The objective is to get three of your own symbols (X or O) in a row, either horizontally, vertically, or diagonally. This project implements the game using web technologies and includes an AI opponent that uses the Minimax algorithm to play optimally.
 ## Demo
